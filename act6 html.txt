@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>El Reino de Skyrim</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>El Reino de Skyrim</h1>
+<nav>
+<ul>
+<li><a href="#inicio">Inicio</a></li>
+<li><a href="#historia">Historia</a></li>
+<li><a href="#personajes">Personajes</a></li>
+<li><a href="#facciones">Facciones</a></li>
+<li><a href="#galeria">Galería</a></li>
+<li><a href="#contacto">Contacto</a></li>
+</ul>
+</nav>
+</header>
+<main>
+<section id="inicio" class="hero">
+<h2>Explora el Norte Helado de Tamriel</h2>
+<p>Conviértete en el Sangre de Dragón y desafía a los dragones que amenazan con
+destruir el mundo.</p>
+<a class="btn" href="#historia">Descubre Más</a>
+</section>
+<section id="historia" class="layout-2col">
+<article>
+<h2>La Historia de Skyrim</h2>
+<p>
+<strong>The Elder Scrolls V: Skyrim</strong> es un videojuego de rol de mundo
+abierto
+desarrollado por Bethesda Game Studios. Situado en la provincia de Skyrim,
+el jugador asume el papel del Dovahkiin, un héroe destinado a combatir a los
+dragones que amenazan Tamriel.
+</p>
+<p>
+El juego destaca por su libertad de exploración, personalización del personaje y su
+mundo lleno de aventuras.
+Puedes convertirte en un guerrero, mago o ladrón y recorrer montañas, ciudades y
+mazmorras.
+</p>
+</article>
+
+<aside>
+<h3>Dato Curioso</h3>
+<p>El famoso grito <em>Fus Ro Dah</em> se ha convertido en un ícono cultural del
+mundo gamer.</p>
+</aside>
+</section>
+<section id="personajes" class="personajes">
+<h2>Personajes Destacados</h2>
+<div class="grid">
+<article>
+<h3>Dovahkiin</h3>
+<p>El protagonista, portador del alma de dragón y destinado a detener a Alduin.</p>
+</article>
+<article>
+<h3>Ulfric Capa de la Tormenta</h3>
+<p>Líder rebelde que busca liberar Skyrim del control imperial.</p>
+</article>
+<article>
+<h3>Delphine</h3>
+<p>Una de las últimas miembros de las Espadas, organización dedicada a proteger a
+Tamriel.</p>
+</article>
+</div>
+</section>
+<section id="facciones" class="facciones">
+<h2>Facciones Principales</h2>
+<div class="flex">
+<article><h3>Compañeros</h3><p>Guerreros honorables que viven en Jorrvaskr,
+Whiterun.</p></article>
+<article><h3>Gremio de Magos</h3><p>Instituto de estudio mágico en la Ciudad de
+Invierno.</p></article>
+<article><h3>Hermandad Oscura</h3><p>Asesinos sigilosos que siguen a Sithis y
+Madre Noche.</p></article>
+<article><h3>Legión Imperial</h3><p>Ejército que busca mantener el control del
+Imperio en Skyrim.</p></article>
+</div>
+</section>
+<section id="galeria" class="galeria">
+<h2>Lugares Emblemáticos</h2>
+<div class="grid texto">
+<article><h3>Whiterun</h3><p>Una ciudad central rodeada de praderas, conocida por
+su hospitalidad y el castillo Carrera Blanca.</p></article>
+<article><h3>High Hrothgar</h3><p>Templo de los Barbas Grises, ubicado en la cima
+de la garganta del mundo.</p></article>
+
+<article><h3>Solitute</h3><p>Capital imperial de Skyrim, construida sobre un gran
+arco natural de piedra.</p></article>
+<article><h3>Riften</h3><p>Ciudad mercantil en el sureste, hogar del Gremio de
+Ladrones.</p></article>
+</div>
+</section>
+</main>
+<footer id="contacto">
+<p>© 2025 El Reino de Skyrim | Creado por Diego López Álvarez</p>
+<address>Contacto: <a href="mail:d.lopez24@info.uas.edu.mx">info@skyrim.com</a></address>
+</footer>
+</body>
+</html>
